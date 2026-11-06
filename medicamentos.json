@@ -45,4 +45,13 @@
     "quantidade": "10 comprimidos",
     "dosagem": "1 g"
   }
+  {
+    "id": "medicamento_009",
+    "nome": "Cetoconazol",
+    "preco": 23.50,
+    "marca": "Cimed",
+    "descricao": "Antifungico para pele",
+    "quantidade": "5 comprimidos",
+    "dosagem": "10 g"
+  }
 ]
