@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": "medicamento_001",
+    "nome": "Paracetamol",
+    "preco": 12.90,
+    "marca": "Medley",
+    "descricao": "Analgésico e antitérmico",
+    "quantidade": 20,
+    "dosagem": "750 mg"
+  },
+  {
+    "id": "medicamento_002",
+    "nome": "Dipirona",
+    "preco": 9.50,
+    "marca": "Neo Química",
+    "descricao": "Analgésico e antitérmico",
+    "quantidade": 10,
+    "dosagem": "500 mg"
+  },
+  {
+    "id": "medicamento_003",
+    "nome": "Ibuprofeno",
+    "preco": 15.90,
+    "marca": "EMS",
+    "descricao": "Anti-inflamatório não esteroidal",
+    "quantidade": 10,
+    "dosagem": "600 mg"
+  },
+  {
+    "id": "medicamento_004",
+    "nome": "Loratadina",
+    "preco": 8.90,
+    "marca": "Cimed",
+    "descricao": "Antialérgico",
+    "quantidade": 12,
+    "dosagem": "10 mg"
+  },
+  {
+    "id": "medicamento_005",
+    "nome": "Vitamina C",
+    "preco": 18.50,
+    "marca": "Cimed",
+    "descricao": "Suplemento de vitamina C",
+    "quantidade": 10,
+    "dosagem": "1 g"
+  }
+]
