@@ -6,7 +6,7 @@
     "preco": 12.90,
     "marca": "Medley",
     "descricao": "Analgésico e antitérmico",
-    "quantidade": 20,
+    "quantidade": "20 comprimidos",
     "dosagem": "750 mg"
   },
   {
@@ -15,7 +15,7 @@
     "preco": 9.50,
     "marca": "Neo Química",
     "descricao": "Analgésico e antitérmico",
-    "quantidade": 10,
+    "quantidade": "10 comprimidos",
     "dosagem": "500 mg"
   },
   {
@@ -24,7 +24,7 @@
     "preco": 15.90,
     "marca": "EMS",
     "descricao": "Anti-inflamatório não esteroidal",
-    "quantidade": 10,
+    "quantidade": "10 comprimidos",
     "dosagem": "600 mg"
   },
   {
@@ -33,7 +33,7 @@
     "preco": 8.90,
     "marca": "Cimed",
     "descricao": "Antialérgico",
-    "quantidade": 12,
+    "quantidade": "12 comprimidos",
     "dosagem": "10 mg"
   },
   {
@@ -42,7 +42,7 @@
     "preco": 18.50,
     "marca": "Cimed",
     "descricao": "Suplemento de vitamina C",
-    "quantidade": 10,
+    "quantidade": "10 comprimidos",
     "dosagem": "1 g"
   }
 ]
